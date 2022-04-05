@@ -3,7 +3,7 @@
 - [Présentation](#pres)
 - [Nos repositories](#repos)
 - [Documentation](#docu)
-- [Crédit](#cred)
+- [Remerciements](#cred)
 - [L'Equipe](#team)
 - [Contact](#contact)
 
@@ -34,7 +34,7 @@ Nous utilisons un téléphone sous Android afin de commander le pointeur de sour
 -> [Initialisation de la Raspberry PI](https://github.com/HandiMouv/Presentation-Generale/blob/main/DOCUMENTATION/Configuration%20Raspberry%20PI.pdf)<br>
 - **Démonstrateur:**<br>
 
-## <a name="cred"/>Crédit
+## <a name="cred"/>Remerciements
 - Le projet [ArmBot-ECE](https://github.com/ArmBot-ECE) sous licence [GNU](https://github.com/HandiMouv/Presentation-Generale/blob/main/LICENSE) pour sa base technique.
 - Notre mentor, Frederic RAVAULT, pour ses conseils.
 
