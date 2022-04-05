@@ -25,6 +25,9 @@ Pour illuster ce processus, nous avons créé un projet de **pointeur de souris 
 ## <a name="tech"/>Présentation Technique
 
 ## <a name="docu"/>Documentation
+- **Mobile App:**<br>
+Comment télécharger et lancer notre application ? Comment l'utiliser ?<br>
+-> [README Mobile App](https://github.com/HandiMouv/MobileApp#readme)<br>
 - **Raspberry PI:**<br>
 Comment formater une carte SD pour la Raspberry PI ? Vous y connecter par SSH ? Changer d'accès WIFI ?<br>
 -> [Initialisation de la Raspberry PI](https://github.com/HandiMouv/Presentation-Generale/blob/main/DOCUMENTATION/Configuration%20Raspberry%20PI.pdf)<br>
