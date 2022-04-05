@@ -1,6 +1,6 @@
 # Presentation-Generale
 ## Table des matières
-- [Présentation générale](#pres)
+- [Présentation](#pres)
 - [Nos repositories](#repos)
 - [Présentation technique](#tech)
 - [Documentation](#docu)
@@ -8,7 +8,7 @@
 - [L'Equipe](#team)
 - [Contact](#contact)
 
-## <a name="pres"/>Présentation Générale
+## <a name="pres"/>Présentation
 Ce projet est dans le cadre d'[HandiTech](https://handitech-france.fr/) et a pour vocation à fournir une normalisation et une clarification de la communication entre les projets de **controleurs** et d'**actionneurs** dont vous pouvez voir le schéma ci-dessous:<br>
 > ***Figure 1:** Schéma des échanges entre les projets HandiTech<br>*
 > <image width=400 height=250 src="https://github.com/HandiMouv/Presentation-Generale/blob/main/IMAGES/SchemaDesParties.png"/><br>
