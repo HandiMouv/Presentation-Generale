@@ -8,9 +8,10 @@
 - [Contact](#contact)
 
 ## <a name="pres"/>Présentation Générale
-Ce projet est dans le cadre d'[HandiTech](https://handitech-france.fr/) et a pour vocation à normaliser et à clarifier la communication entre les projets de controleurs et d'actionneurs dont vous pouvez voir le schéma ci-dessous:<br>
+Ce projet est dans le cadre d'[HandiTech](https://handitech-france.fr/) et a pour vocation à fournir une normalisation et une clarification de la communication entre les projets de controleurs et d'actionneurs dont vous pouvez voir le schéma ci-dessous:<br>
 > **Figure 1:** Schéma des échanges entre les projets HandiTech<br>
 > <image width=400 height=250 src="https://github.com/HandiMouv/Presentation-Generale/blob/main/IMAGES/SchemaDesParties.png"/><br>
+Pour illuster ce processus, nous avons créé un projet de **pointeur de souris piloté à distance**.
 
 ## <a name="repos"/>Présentation Technique
 
