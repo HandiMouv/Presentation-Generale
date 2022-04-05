@@ -1,7 +1,8 @@
 # Presentation-Generale
 ## Table des matières
 - [Présentation générale](#pres)
-- [Présentation technique](#repos)
+- [Nos repositories](#repos)
+- [Présentation technique](#tech)
 - [Documentation](#docu)
 - [Crédit](#cred)
 - [L'Equipe](#team)
