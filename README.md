@@ -26,13 +26,12 @@ Nous utilisons un téléphone sous Android afin de commander le pointeur de sour
 - [Demonstrateur](https://github.com/HandiMouv/Demonstrateur) : Le code du démonstrateur.
 
 ## <a name="docu"/>Documentation
-- **Mobile App:**<br>
-*Comment télécharger et lancer notre application ? Comment l'utiliser ?*<br>
+**Comment télécharger et lancer notre application ? Comment l'utiliser ?**<br>
 -> [README Mobile App](https://github.com/HandiMouv/MobileApp#readme)<br>
-- **Raspberry PI:**<br>
-*Comment formater une carte SD pour la Raspberry PI ? Vous y connecter par SSH ? Changer d'accès WIFI ?*<br>
+**Comment formater une carte SD pour la Raspberry PI ? Vous y connecter par SSH ? Changer d'accès WIFI ?**<br>
 -> [Initialisation de la Raspberry PI](https://github.com/HandiMouv/Presentation-Generale/blob/main/DOCUMENTATION/Configuration%20Raspberry%20PI.pdf)<br>
-- **Démonstrateur:**<br>
+**Comment la Raspberry PI receptionne les données bluetooth ? Comment elle emet des sockets ? Comment l'odinateur receptionne les sokets ?**<br>
+-> [Connexions de la Raspberry PI](https://github.com/HandiMouv/Presentation-Generale/blob/main/DOCUMENTATION/Connexions%20du%20Raspberry%20PI%20.pdf)
 
 ## <a name="cred"/>Remerciements
 - Le projet [ArmBot-ECE](https://github.com/ArmBot-ECE) sous licence [GNU](https://github.com/HandiMouv/Presentation-Generale/blob/main/LICENSE) pour sa base technique.
